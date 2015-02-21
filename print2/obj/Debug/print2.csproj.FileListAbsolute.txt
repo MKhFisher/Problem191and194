@@ -1,0 +1,7 @@
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\bin\Debug\print2.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\bin\Debug\print2.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\bin\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\bin\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\obj\Debug\print2.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\obj\Debug\print2.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\print2\obj\Debug\print2.pdb

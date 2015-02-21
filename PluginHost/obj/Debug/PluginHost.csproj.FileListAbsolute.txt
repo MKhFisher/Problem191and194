@@ -1,0 +1,16 @@
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\bin\Debug\PluginHost.exe.config
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\bin\Debug\PluginHost.exe
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\bin\Debug\PluginHost.pdb
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\obj\Debug\PluginHost.exe
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\obj\Debug\PluginHost.pdb
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\bin\Debug\ApplicationPlugins.dll
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\bin\Debug\ApplicationPlugins.pdb
+D:\MySandbox\Plugin\ApplicationPlugins\PluginHost\obj\Debug\PluginHost.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\bin\Debug\PluginHost.exe.config
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\obj\Debug\PluginHost.exe
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\obj\Debug\PluginHost.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\bin\Debug\PluginHost.exe
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\bin\Debug\PluginHost.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\bin\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\bin\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\PluginHost\obj\Debug\PluginHost.csprojResolveAssemblyReference.cache

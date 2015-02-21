@@ -1,0 +1,7 @@
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\obj\Debug\words1.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\bin\Debug\words1.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\bin\Debug\words1.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\bin\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\bin\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\obj\Debug\words1.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\words1\obj\Debug\words1.pdb

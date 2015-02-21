@@ -1,0 +1,7 @@
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\bin\Debug\words2.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\bin\Debug\words2.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\bin\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\bin\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\obj\Debug\words2.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\obj\Debug\words2.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\words2\obj\Debug\words2.pdb

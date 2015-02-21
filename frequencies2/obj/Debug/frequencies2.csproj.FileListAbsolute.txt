@@ -1,0 +1,7 @@
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\bin\Debug\frequencies2.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\bin\Debug\frequencies2.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\bin\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\bin\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\obj\Debug\frequencies2.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\obj\Debug\frequencies2.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\frequencies2\obj\Debug\frequencies2.pdb

@@ -1,0 +1,9 @@
+D:\MySandbox\Plugin\ApplicationPlugins\ApplicationPlugins\bin\Debug\ApplicationPlugins.dll
+D:\MySandbox\Plugin\ApplicationPlugins\ApplicationPlugins\bin\Debug\ApplicationPlugins.pdb
+D:\MySandbox\Plugin\ApplicationPlugins\ApplicationPlugins\obj\Debug\ApplicationPlugins.dll
+D:\MySandbox\Plugin\ApplicationPlugins\ApplicationPlugins\obj\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\ApplicationPlugins\bin\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\ApplicationPlugins\bin\Debug\ApplicationPlugins.pdb
+C:\Users\Michael\Desktop\ApplicationPlugins\ApplicationPlugins\obj\Debug\ApplicationPlugins.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\ApplicationPlugins\ApplicationPlugins\obj\Debug\ApplicationPlugins.dll
+C:\Users\Michael\Desktop\ApplicationPlugins\ApplicationPlugins\obj\Debug\ApplicationPlugins.pdb
